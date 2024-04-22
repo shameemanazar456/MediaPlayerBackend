@@ -1,0 +1,109 @@
+{
+  "videos": [
+    {
+      "caption": "Periyone song",
+      "imgUrl": "https://miro.medium.com/v2/resize:fit:1080/1*7EctQNNYb8ZwT3Neb6e9gQ.jpeg",
+      "embedLink": "https://www.youtube.com/embed/KdDxPs&t=1s",
+      "id": 1
+    },
+    {
+      "caption": "Mini Maharani Video Song",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAeMDcyrT2vnZfmDWh88XIeSVpqWuA0a9rKdbZM_XzUA&s",
+      "embedLink": "https://www.youtube.com/embed/6G75yTBzBUA",
+      "id": 2
+    },
+    {
+      "caption": "akhiyaan gulaab (song)",
+      "imgUrl": "https://i.ytimg.com/vi/GvXDq-P1NB8/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/GvXDq-P1NB8",
+      "id": 3
+    },
+    {
+      "caption": "ONCE UPON A TIME IN KOCHI | Kande Njanaakaashathoru ",
+      "imgUrl": "https://i.ytimg.com/vi/_TkJ-FubFJA/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/_TkJ-FubFJA",
+      "id": 4
+    },
+    {
+      "caption": "Tum Tum",
+      "imgUrl": "https://i.ytimg.com/vi/Q38f4frs8yc/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/tYSrY4iPX6w",
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "caption": "akhiyaan gulaab (song)",
+      "url": "https://www.youtube.com/embed/GvXDq-P1NB8",
+      "timestamp": "18/04/2024, 15:51:06",
+      "id": 1
+    },
+    {
+      "caption": "Mini Maharani Video Song",
+      "url": "https://www.youtube.com/embed/6G75yTBzBUA",
+      "timestamp": "20/04/2024, 14:52:17",
+      "id": 2
+    },
+    {
+      "caption": "xcx",
+      "url": "https://www.youtube.com/embed/sc",
+      "timestamp": "20/04/2024, 14:52:41",
+      "id": 3
+    },
+    {
+      "caption": "Mini Maharani Video Song",
+      "url": "https://www.youtube.com/embed/6G75yTBzBUA",
+      "timestamp": "20/04/2024, 15:53:53",
+      "id": 4
+    },
+    {
+      "caption": "Periyone song",
+      "url": "https://www.youtube.com/embed/KdDxPs&t=1s",
+      "timestamp": "20/04/2024, 15:54:31",
+      "id": 5
+    },
+    {
+      "caption": "scx",
+      "url": "https://www.youtube.com/embed/zxc",
+      "timestamp": "20/04/2024, 16:04:18",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "category": "Hindi Songs",
+      "allVideos": [
+        {
+          "caption": "akhiyaan gulaab (song)",
+          "imgUrl": "https://i.ytimg.com/vi/GvXDq-P1NB8/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/GvXDq-P1NB8",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "Tamil Songs",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "category": "Malayalam Songs",
+      "allVideos": [
+        {
+          "caption": "akhiyaan gulaab (song)",
+          "imgUrl": "https://i.ytimg.com/vi/GvXDq-P1NB8/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/GvXDq-P1NB8",
+          "id": 3
+        },
+        {
+          "caption": "ONCE UPON A TIME IN KOCHI | Kande Njanaakaashathoru ",
+          "imgUrl": "https://i.ytimg.com/vi/_TkJ-FubFJA/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/_TkJ-FubFJA",
+          "id": 4
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
